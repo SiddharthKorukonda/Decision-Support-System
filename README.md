@@ -1,1 +1,3 @@
 # Decision-Support-System
+
+This project implements an interactive decision support system that utilizes ternary trees to guide users through a series of questions and answers. Each node in the tree represents a question, and the possible responses lead to different branches, allowing for a dynamic and user-driven flow of information. This system can be used for various applications such as technical support, troubleshooting, and other decision-making processes where a structured series of queries can help arrive at a solution. The project includes functionalities to load the tree structure from a file, traverse the tree, and conduct interactive sessions with the user.
